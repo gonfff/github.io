@@ -23,7 +23,7 @@ function createLinks(additionalClasses = "") {
 
   return `
       <a class="${classes}" href="https://github.com/gonfff" target="_blank">GitHub</a>
-      <a class="${classes}" href="https://t.me/dadementev" target="_blank">Telegram</a>
+      <a class="${classes}" href="https://t.me/gonfff_one" target="_blank">Telegram</a>
       <a class="${classes}" href="mailto:dementev629@gmail.com" target="_blank">Email</a>
   `;
 }
